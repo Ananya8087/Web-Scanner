@@ -11,5 +11,5 @@ The scanner is easy to use, with a simple command-line interface and intuitive o
 
 
 
-Click here for more info
+Click here for more info : 
 [web_scanner.pdf](https://github.com/Ananya8087/Web-Scanner/files/11951481/cnforgit.pdf)
