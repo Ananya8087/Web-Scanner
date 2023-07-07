@@ -35,4 +35,4 @@ try:
     gather_info(a)
     print("Scan done. Check your directory for the reports.")
 except:
-    print("Site does not have robots.txt file, check directory for other info")
+    print("Site does not contain robots.txt file, check directory for other information")
